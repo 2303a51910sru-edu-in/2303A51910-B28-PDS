@@ -4,3 +4,4 @@
 #LAB-3[https://github.com/2303a51910sru-edu-in/2303A51910-B28-PDS/blob/main/lab_3(22_AUG).ipynb]
 #LAB-5[https://github.com/2303a51910sru-edu-in/2303A51910-B28-PDS/blob/main/lab5.ipynb]
 #LAB-6[https://github.com/2303a51910sru-edu-in/2303A51910-B28-PDS/blob/main/lab_6.ipynb]
+#LAB-7[https://github.com/2303a51910sru-edu-in/2303A51910-B28-PDS/blob/main/Lab-7.ipynb]
